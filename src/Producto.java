@@ -7,4 +7,5 @@ public class Producto {
     private String nombreFabricante;
     private int cantidad;
     private double precioUnitario;
+    private List<Tienda> tiendas;
 }
