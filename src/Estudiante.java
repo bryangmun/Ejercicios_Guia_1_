@@ -1,3 +1,4 @@
+// Esta clase describe al estudiante
 public class Estudiante extends Persona{
     //Atributos
     private int semestre;
