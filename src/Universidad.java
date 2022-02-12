@@ -4,5 +4,5 @@ public class Universidad {
     private String nombreU;
     private String rector;
     private String ciudadU;
-    private List<Facultad> facultad;
+    private List<Facultad> facultades;
 }
