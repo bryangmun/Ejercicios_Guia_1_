@@ -1,4 +1,4 @@
-/ Esta clase representa la Facultad
+// Esta clase representa la Facultad
 public class Facultad {
     //Atributos
     private String nombreF;
