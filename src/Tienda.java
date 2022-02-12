@@ -4,8 +4,8 @@ public class Tienda {
     private String nombre;
     private String direccion;
     private int telefono;
-    private Producto lacteo;
-    private Producto carnico;
-    private Producto fruta;
-    private Producto enlatado;
+    private Producto producto1;
+    private Producto producto2;
+    private Producto producto3;
+    private Producto producto4;
 }

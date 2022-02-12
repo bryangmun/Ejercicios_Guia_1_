@@ -1,3 +1,6 @@
+import java.util.Date;
+import java.util.List;
+
 // Esta clase representa una tienda
 public class Producto {
     private int codigo;
