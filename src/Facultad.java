@@ -2,6 +2,6 @@
 public class Facultad {
     //Atributos
     private String nombreF;
-    private List<Carrera> carrera;
-    private List<Profesor> profesor;
+    private List<Carrera> carreras;
+    private List<Profesor> profesores;
 }
